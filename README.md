@@ -1,16 +1,11 @@
-# data_to_sheet
+# Blog App
 
-A Flutter app for adding data from app to google sheet
+This is a demo app made by flutter. By using this app we can push the data from app to google sheet and also fetch the data from google sheet to display it to the app. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+|                       |                              |                              |                              |
+|-----------------------| ---------------------------- | ---------------------------- | ---------------------------- |
+| ![](screenshots/01.jpeg) | ![](screenshots/02.jpeg) | ![](screenshots/03.jpeg) |
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
